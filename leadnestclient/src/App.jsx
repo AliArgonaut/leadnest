@@ -10,4 +10,4 @@ function App() {
 
 export default App;
 
-// in a terminal that is CD'd into the client folder (not the source folder) npm run dev 
+// in a terminal that is CD'd into the client folder (not the source folder) npm run dev w
